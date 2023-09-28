@@ -1,4 +1,7 @@
 public class Init{
-int num;
+public void add(){
+
+  
+}
   
 }
