@@ -1,7 +1,6 @@
 /**
 Crea una clase
-Venta
- con sus atributos (Nombre de producto, cantidad, precio) y con los métodos informar yvender.
+Venta con sus atributos (Nombre de producto, cantidad, precio) y con los métodos informar yvender.
  El método vender tendrá que mostrar un mensaje indicando si se realizará un descuento o no
  (Se realizaráun descuento al producto que tenga el precio > S/. 1000)
  */
